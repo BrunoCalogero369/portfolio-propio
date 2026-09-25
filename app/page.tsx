@@ -226,7 +226,7 @@ export default function Portfolio() {
 
           <div className="flex flex-wrap justify-center gap-3 w-full sm:w-auto">
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/bruno-calogero-838795226/"
               target="_blank"
               rel="noopener noreferrer"
               className="flex-1 sm:flex-initial text-center bg-zinc-900 hover:bg-zinc-800 border border-zinc-800 text-zinc-200 text-xs font-bold px-4 py-2.5 rounded-xl transition-all"
